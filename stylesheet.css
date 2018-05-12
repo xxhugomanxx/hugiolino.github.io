@@ -32,6 +32,7 @@ font-size: 150%;
 #twitch {
 	color: grey;
 	text-align: center;
+	font-family: helvetica;
 }
 
 a:link {
@@ -44,4 +45,6 @@ a:visited {
 a:hover {
 	color: lime;
 }
+
+
 

@@ -1,0 +1,47 @@
+body {
+	background-color: navy;
+	margin: 0;
+	font-family: impact;
+}
+
+h1 {
+	color: green;
+text-align: center;
+text-decoration: underline;
+font-size: 150%;
+}
+
+#intro {
+	text-align: center;
+	border: 5px white solid;
+	border-left-width: 0;
+	border-right-width: 0;
+	border-bottom-width: 0;
+}
+
+
+#para1 {
+	background-color: red;
+	margin: 25px;
+	border: 2px black solid;
+	border-collapse: 5px;
+	border-radius: 10px;
+	font-family: comic sans ms;
+}
+
+#twitch {
+	color: grey;
+	text-align: center;
+}
+
+a:link {
+	color: red;
+}
+a:visited {
+	color: purple;
+}
+
+a:hover {
+	color: lime;
+}
+

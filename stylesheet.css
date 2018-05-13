@@ -50,6 +50,8 @@ a:hover {
 	font-family: italic;
 	color: lime;
 	text-align: left;
+	margin-left: 40px;
+	border: 5px lime solid;
 }
 
 

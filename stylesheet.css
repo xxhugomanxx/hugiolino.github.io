@@ -52,6 +52,18 @@ a:hover {
 	text-align: left;
 	margin-left: 40px;
 	border: 5px lime solid;
+	width: 120px;
 }
 
+#viggo {
+	text-align: right;
+	margin: 80px;
+	
+}
+
+#radio {
+	text-align: right;
+	margin: 125px;
+	margin-bottom: 100px;
+}
 
